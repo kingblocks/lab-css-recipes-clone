@@ -22,3 +22,83 @@ body {
 
 /* STYLES */
 /* Write your CSS below */
+
+.sectionOne {
+  background-image: url("../images/apple-pie.jpg");
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+  position: relative;
+  margin: 20px;
+}
+.sectionOne h1 {
+  font-size: 6em;
+  color: white;
+  text-align: center;
+  position: relative;
+  top: 250px;
+}
+
+.paraText {
+  display: inline;
+  align-items: center;
+}
+
+.paraText p {
+  margin: 60px 10% 15px;
+  border: 20% 20%;
+  font-size: 28px;
+  text-align:justify;
+  font-weight: lighter;
+  }
+
+hr {
+  width: 80%;
+}
+
+.paraText img {
+  width: 350px;
+  display: block;
+  margin: 40px auto 20px;
+}
+
+.ingredients {
+  margin-top: 40px;
+  padding-left: 215px;
+  font-size: 30px;
+  
+}
+
+.ingredients li {
+  margin: 10px auto ;
+  list-style-type: none;
+    
+}
+
+#secondImage {
+  width: 350px;
+  display: block;
+  margin: 40px auto 20px;
+}
+
+.directions {
+  padding-left: 215px;
+  padding-right: 208px ;
+  font-size: 30px;
+  margin-bottom: 50px;
+}
+
+.directions h2 {
+  margin-bottom: 20px;
+}
+
+.directions p {
+  font-size: 30px;
+}
+
+
+
+
+
+
